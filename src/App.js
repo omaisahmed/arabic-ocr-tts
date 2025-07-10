@@ -17,7 +17,7 @@ function App() {
   } = useOCR();
 
   return (
-    <div className="container mt-3">
+    <div className="container mt-3 mb-3">
       <div className="text-center mb-4">
         <img
           src="/logo.png"
